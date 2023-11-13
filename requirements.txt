@@ -1,0 +1,7 @@
+Django
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+Werkzeug
+xlrd
+gunicorn

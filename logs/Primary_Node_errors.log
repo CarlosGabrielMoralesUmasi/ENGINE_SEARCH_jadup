@@ -1,0 +1,5 @@
+Error: Not tolerating missing names on install, stopping.
+WARNING: You are using pip version 22.0.4; however, version 23.3.1 is available.
+You should consider upgrading via the '/home/hadoop/jadup/.venv/bin/python3 -m pip install --upgrade pip' command.
+sed: can't read scripts/Harmony.service: No such file or directory
+cp: cannot stat ‘scripts/Harmony.service’: No such file or directory
